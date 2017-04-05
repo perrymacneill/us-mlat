@@ -1,0 +1,22 @@
+.App {
+  height: 100%;
+  width: 100%;
+}
+
+#map-container {
+  height: 750px;
+  width: 1000px;
+  margin: 0 auto;
+}
+
+#country-table, #header {
+  width: 75%;
+  margin: 0 auto;
+}
+
+#citation {
+  width: 75%;
+  margin: 0 auto;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
